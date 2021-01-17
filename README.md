@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+# Aluno na Universidade do Estado do Rio de Janeiro, estudante de física e gosta de trabalhar com programação e suas áreas correlacionadas.
+# No momento estou estudando sobre criação de aplicativos utilizando o framework Flutter, além de criação de sites com as linguagens PHP e Javascript
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
