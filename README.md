@@ -1,4 +1,4 @@
-### Olá, Sou Hugo Alves  :sunglasses:
+### Olá, Sou Hugo Alves 
 
 Sou estudante de física na Universidade do Estado do Rio de Janeiro, gosto muito das áreas de programação, empreendedorismo e negócios digitais.
 
