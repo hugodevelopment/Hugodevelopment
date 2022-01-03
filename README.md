@@ -8,4 +8,4 @@ Sou estudante de física na Universidade do Estado do Rio de Janeiro, gosto muit
 - :books:  Estudo a área de desenvolvimento web com as linguagens de marcação CSS, HTML e a linguagem Javascript, meu objetivo é criar aplicações para pequenos negócios e desenvolver projetos próprios. 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hugox96&theme=prussian&_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hugox96&theme=github_dark&_icons=true)
