@@ -9,3 +9,4 @@ Sou estudante de física na Universidade do Estado do Rio de Janeiro, gosto muit
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hugox96&theme=github_dark&_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
