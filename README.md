@@ -6,7 +6,7 @@ Com esse interesse, tenho uma página no instagram onde crio conteúdo sobre ess
 
 Link da página: https://www.instagram.com/tridev.tech/
 
-Atualmente estou as ferramentas de análise de dados como Python, Excel e Power BI. Meu intuito é aprender bem essas ferramentas para me adaptar bem ao mercado de trabalho e criar diferentes soluções aos problemas que venha a encontrar. Meu interesse em análise de dados esta ligada ao meu interesse em empreendedorismo, tendo em vista que é uma área com muitas aplicações em diferentes setores, desde esportes à médicina, onde é possível aplica-la de diferente formas visando a ótimização do setor.
+Atualmente estou as ferramentas de análise de dados como Python, Excel e Power BI. Meu intuito é aprender bem essas ferramentas para me adaptar bem ao mercado de trabalho e criar diferentes soluções aos problemas que venha a encontrar. Meu interesse em análise de dados esta ligada ao meu interesse em empreendedorismo, tendo em vista que é uma área com muitas aplicações em diferentes setores, desde esportes à médicina, onde é possível aplica-la de diferente formas visando a otimização do setor.
 
 - 🔭 No momento estou estudando o software Excel com o intuito de aprimorar minhas habilidades em tratar dados.
 - 🌱 Estou estudando Python, uma lingugem muito adaptável que consigo aplicar em muitos setores Tenho conhecimento nas biblicotecas Pandas e Numpy para análise e tratamento dos dados.
