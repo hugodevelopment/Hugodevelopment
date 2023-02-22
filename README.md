@@ -1,10 +1,10 @@
 ### Olá, Sou Hugo Alves 
 
-Sou estudante de Física na Universidade do Estado do Rio de Janeiro(UERJ) e gosto muito de estudar as áreas  a programação, empreendedorismo e tecnologia com o objetivo de entender e aprender como elas afetam nosso mundo com o Desenvolvimento das inovações e aplicações que utilizamos no dia-dia.
+Sou estudante de Física na Universidade do Estado do Rio de Janeiro(UERJ) e gosto muito de estudar as áreas  a programação, empreendedorismo e tecnologia com o objetivo de entender e aprender como elas afetam nosso mundo com o desenvolvimento das inovações e aplicações que utilizamos no dia-dia.
 
-Tenho uma página no instagram onde crio conteúdo sobre esses temas, como por exemplo, história de empresas na área da tecnologia, aplicações das linguagens de programação, desafios e tutorias. 
+Com esse interesse, tenho uma página no instagram onde crio conteúdo sobre esses temas, como por exemplo, história de empresas na área da tecnologia, aplicações da programação, desafios e tutorias. Assim consigo aprender ao criar o conteúdo e divulgar meus conhecimentos no processo.
 
-Link: https://www.instagram.com/tridev.tech/
+Link da página: https://www.instagram.com/tridev.tech/
 
 - 🔭 No momento estou estudando o software Excel com o intuito de aprimorar minhas habilidades em tratar dados.
 - 🌱 Estou aprendendo no momento a utilizar o framework Flutter para criação de aplicações mobile.
