@@ -10,7 +10,7 @@ Link da página: https://www.instagram.com/tridev.tech/
 
 Atualmente estou as ferramentas de análise de dados como **Python, Excel e Power BI**. Meu intuito é aprender bem essas ferramentas para me adaptar bem ao mercado de trabalho e criar diferentes soluções aos problemas que venha a encontrar. Meu interesse em análise de dados esta ligada à variedade de aplicações que a área permite desde esportes à medicina, onde é possível aplica-la de diferente formas visando a otimização do setor.
 
-- 🌱 Estou estudando Python, uma lingugem muito adaptável que consigo aplicar em muitos setores. Tenho conhecimento nas biblicotecas Pandas e Numpy para análise e tratamento dos dados.
+- 🌱 Estou estudando Python, uma lingugem muito adaptável que consigo aplicar em muitos setores. Tenho conhecimento nas biblicotecas Pandas e Numpy para análise e tratamento dos dados;
 - :pencil: Participei por dois anos do projeto de iniciação científica de análise de dados na área de física de partículas, utilizando a linguagem C++;
 - :books:  Estudo a área de desenvolvimento web com as linguagens de marcação CSS, HTML e a linguagem Javascript, meu objetivo é criar aplicações para pequenos negócios e desenvolver projetos próprios. 
 
